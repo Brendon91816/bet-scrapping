@@ -1,0 +1,15 @@
+/* DataTable.css */
+.myTable {
+    width: 100%;
+    table-layout: auto;
+  }
+  
+  .myTable th,
+  .myTable td {
+    text-align: left; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    padding: 8px;
+
+  }
